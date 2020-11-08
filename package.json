@@ -1,0 +1,22 @@
+{
+  "name": "package-auto-zip",
+  "version": "1.0.0",
+  "description": "webpack打包完成之后自动压缩插件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webpack",
+    "plugin"
+  ],
+  "author": "mrwangqaq",
+  "license": "ISC",
+  "dependencies": {
+    "yazl": "^2.5.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/web-labor/package-auto-zip.git"
+  }
+}
